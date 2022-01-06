@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/over", {data:[{}],fetch:{},mutations:void 0});
