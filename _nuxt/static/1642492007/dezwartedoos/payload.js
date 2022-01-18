@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dezwartedoos", {data:[{}],fetch:{"0":{featured:[{id:"536000614",title:"Schetsboeken",image:"img\u002Fschetsboeken.jpg"},{id:"536000582",title:"Ontwerptekening voor .03",image:"img\u002Fontwerptekening03.jpg"},{id:"536000235",title:"Eigen atelier Galgenberg",image:"img\u002Fateliergalgenberg.jpg"}]}},mutations:void 0});
